@@ -1,0 +1,116 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 30px;
+    
+}
+.top{
+    background-color: white;
+    padding: 20px;
+    
+}
+
+.middle-container{
+    background-color: white;
+    padding: 40px;
+    text-align: center;
+    border-width:40px ;
+    margin:10px;
+}
+
+.bottom-container{
+    background-color: white;
+    padding: 40px;
+    text-align: center;
+    border-width:40px ;
+    margin:10px;
+}
+
+
+
+h1{
+    color: black;
+    text-align: center;
+    padding-top: 80px;
+    font-family:'sacramento' ,cursive;
+    font-size: 90px;
+
+    
+    
+
+}
+
+p{
+    color: black;
+    text-align: center;
+    font-family: monospace;
+
+}
+
+.cloud{
+
+   position: absolute;
+   right: 80px;
+   top: 70px;
+   padding-bottom: 20px;
+
+}
+
+.mountain{
+
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    
+}
+
+.botcloud{
+
+    position: absolute;
+    left: 100px;
+    width: 80px;
+    
+}
+
+nav{
+    
+    text-align: right;
+    color: black;
+}
+
+a{
+    color:black;
+    text-decoration:none ;
+    padding: 10px;
+}
+
+a:hover{
+    color:grey;
+}
+
+h2{
+    color:black;
+}
+
+h3{
+    color:black;
+}
+
+dev{
+    position: absolute;
+    left: 50px;
+}
+sing{
+    position: absolute;
+    right: 50px;
+}
+
+communication{
+    position: absolute;
+    left: 50px;
+}
+.nav-item{
+    text-align: right;
+}
